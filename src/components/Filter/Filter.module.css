@@ -1,0 +1,9 @@
+.label {
+   display: flex;
+   flex-direction: column;
+
+   font-size: 14px;
+   width: 150px;
+   line-height: 1.7;
+   margin: 0 auto 15px;
+}
